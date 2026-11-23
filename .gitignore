@@ -1,0 +1,7 @@
+# Downloaded make.fun kit directories — never commit these.
+kit/
+*-kit/
+*-kit-fresh/
+*.tar.gz
+.makefun/
+node_modules/
